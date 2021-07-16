@@ -1,12 +1,13 @@
-- 👋 Hi, I’m Maneesh Sutar (@maneesh29s) 
-- 🎓 I’m in Final Year of Electrical Engineering. I am captain of Robocon Team of my college.
+- 👋 Hi, I am Maneesh Sutar (@maneesh29s) 
+- 🎓 I am in Final Year of Electrical Engineering. 
+- ⭐ I am captain of ABU Robocon Robotics Team of my college.
 - 💡 I have knowledge of ROS, Tensorflow, OpenCV.
-- 👀 I'm looking for opportunity in IoT and Robotics 🤖.
-- 💞️ I’m a reasearch enthusiast, currently working on a research paper on Hybrid Evolutionary Algorithm.
-- 📫 You can reach me at \n
-      Phone: +91 7218730201 \n
-      Email: sutarmaneesh00@gmail.com \n
-      LinkedIn: maneesh29s \n
+- 👀 I am looking for opportunity in IoT and Robotics 🤖.
+- 💞️ I am a reasearch enthusiast, currently working on a research paper on Hybrid Evolutionary Algorithm.
+- 📫 You can reach me at <br />
+      Phone: +91 7218730201 <br />
+      Email: sutarmaneesh00@gmail.com <br />
+      LinkedIn: maneesh29s <br />
 
 Thank you for visiting my profile!!!
 
