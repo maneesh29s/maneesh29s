@@ -3,10 +3,10 @@
 - 💡 I have knowledge of ROS, Tensorflow, OpenCV.
 - 👀 I'm looking for opportunity in IoT and Robotics 🤖.
 - 💞️ I’m a reasearch enthusiast, currently working on a research paper on Hybrid Evolutionary Algorithm.
-- 📫 You can reach me at 
-      Phone: +91 7218730201
-      Email: sutarmaneesh00@gmail.com
-      LinkedIn: maneesh29s
+- 📫 You can reach me at \n
+      Phone: +91 7218730201 \n
+      Email: sutarmaneesh00@gmail.com \n
+      LinkedIn: maneesh29s \n
 
 Thank you for visiting my profile!!!
 
