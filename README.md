@@ -1,3 +1,4 @@
+# Introduction
 - 👋 Hi, I am Maneesh Sutar (@maneesh29s) 
 - 🎓 I am in Final Year of Electrical Engineering. 
 - ⭐ I am captain of ABU Robocon Robotics Team of my college.
@@ -9,7 +10,14 @@
       Email: sutarmaneesh00@gmail.com <br />
       LinkedIn: maneesh29s <br />
 
-Thank you for visiting my profile!!!
+Thank you for visiting my profile!!! <br />
+<br />
+
+# My Project
+is really really cool. My Project has a subdir named myLib, see below.
+
+## myLib documentation
+see documentation [here](myLib/README.md)
 
 <!---
 maneesh29s/maneesh29s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
