@@ -8,16 +8,10 @@
 - 📫 You can reach me at <br />
       Phone: +91 7218730201 <br />
       Email: sutarmaneesh00@gmail.com <br />
-      LinkedIn: maneesh29s <br />
+      LinkedIn: [maneesh29s](https://www.linkedin.com/in/maneesh29s) <br />
 
 Thank you for visiting my profile!!! <br />
-<br />
 
-# My Project
-is really really cool. My Project has a subdir named myLib, see below.
-
-## myLib documentation
-see documentation [here](myLib/README.md)
 
 <!---
 maneesh29s/maneesh29s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
