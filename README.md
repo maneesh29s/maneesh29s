@@ -1,7 +1,7 @@
 # Introduction
 - 👋 Hi, I am Maneesh Sutar (@maneesh29s) 
 - 🎓 I am in Final Year of Electrical Engineering. 
-- ⭐ I am captain of ABU Robocon Robotics Team of my college.
+- ⭐ I am a Mentor of ABU Robocon Robotics Team of my college.
 - 💡 I have knowledge of ROS, Tensorflow, OpenCV.
 - 👀 I am looking for opportunity in IoT and Robotics 🤖.
 - 💞️ I am a reasearch enthusiast, currently working on a research paper on Hybrid Evolutionary Algorithm.
