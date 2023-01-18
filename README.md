@@ -1,6 +1,6 @@
 # Introduction
 - 👋 Hi, I am Maneesh Sutar (@maneesh29s) 
-- 🎓 I am have completed my B.Tech. in Electrical Engineering. 
+- 🎓 I have completed my B.Tech. in Electrical Engineering. 
 - ⭐ I am a Developer.
 - 💡 I have knowledge of Java, Spring, Spark, Datbricks.
 - 💞️ I am a reasearch enthusiast, currently working on a research paper on Hybrid Evolutionary Algorithm.
