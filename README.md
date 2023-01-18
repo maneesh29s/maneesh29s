@@ -2,8 +2,8 @@
 - 👋 Hi, I am Maneesh Sutar (@maneesh29s) 
 - 🎓 I have completed my B.Tech. in Electrical Engineering. 
 - ⭐ I am a Developer.
-- 💡 I have knowledge of Java, Spring, Spark, Datbricks.
-- 💞️ I am a reasearch enthusiast, currently working on a research paper on Hybrid Evolutionary Algorithm.
+- 💡 I have knowledge of C++, Java, Spring, Spark, Databricks.
+- 💞️ I am a reasearch enthusiast, currently working in the field of Data Intensive Computing.
 - (I know that's a lot of "I am"s, but couldn't come up with something better. Anyway)
 - 📫 You can reach me at <br />
       Phone: +91 7218730201 <br />
