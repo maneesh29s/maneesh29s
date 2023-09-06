@@ -6,7 +6,6 @@
 - 💞️ I am a reasearch enthusiast, currently working in the field of Data Intensive Computing.
 - (I know that's a lot of "I am"s, but couldn't come up with something better. Anyway)
 - 📫 You can reach me at <br />
-      Phone: +91 7218730201 <br />
       Email: sutarmaneesh00@gmail.com <br />
       LinkedIn: [maneesh29s](https://www.linkedin.com/in/maneesh29s) <br />
 
