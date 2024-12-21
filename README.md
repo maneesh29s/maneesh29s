@@ -1,7 +1,7 @@
 # Introduction
 - 👋 Hi, I am Maneesh Sutar (@maneesh29s) 
 - 🎓 I have completed my B.Tech. in Electrical Engineering. 
-- ⭐ I am a developer at [thoughtworks](https://www.thoughtworks.com/en-in). Currently working with python and dask.
+- ⭐ I am a developer at [Thoughtworks](https://www.thoughtworks.com/en-in). Currently working with python and dask.
 - 💞️ I am a reasearch enthusiast, with an interest in computer architecture and Data Intensive Computing.
 - (I know that's a lot of "I am"s, but couldn't come up with something better. Anyway)
 - I like to share the knowledge that I have gained, so here are the links to:
